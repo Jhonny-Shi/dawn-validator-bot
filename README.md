@@ -27,7 +27,7 @@
 - Banned account tracking
 - Unverified account monitoring
   
-- **Security**
+**Security**
 - Advanced captcha solving integration
 - Proxy support (HTTP/SOCKS5)
 - Secure email integration
