@@ -40,7 +40,7 @@
 - Working proxies (HTTP/SOCKS5)
 - Captcha service subscription (2captcha/anticaptcha)
 
-##️ Installation
+## Installation
 
 1. **Clone the Repository**
    ```bash
