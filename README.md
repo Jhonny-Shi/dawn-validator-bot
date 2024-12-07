@@ -44,7 +44,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Rambeboy/dawn-validator-bot && cd dawn-validator-bot
+   git clone https://github.com/Jhonny-Shi/dawn-validator-bot && cd dawn-validator-bot
    ```
 
 2. **Set Up Virtual Environment**
@@ -102,6 +102,7 @@ imap_settings:
   rambler.ru: imap.rambler.ru
   gmx.com: imap.gmx.com
   onet.pl: imap.poczta.onet.pl
+  126.com：imap.126.com
 ```
 
 ### Input Files Structure
